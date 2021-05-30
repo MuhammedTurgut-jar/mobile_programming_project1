@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Odev</string>
+    <string name="title_activity_sign">Sign</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="permission_necessary" />
+    <string name="storage_permission_is_encessary_to_wrote_event" />
+</resources>
